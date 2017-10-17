@@ -1,1 +1,3 @@
 # First-repository
+
+Introduction to Computers and Informatics class of TTU Cyber Security Engineering. IVSB12....
